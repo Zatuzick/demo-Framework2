@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "xxxxaaxa2",
+      "price": "20222",
+      "description": "xaxasxasxas 20000"
+    },
+    {
+      "id": 3,
+      "name": "sản phẩm3",
+      "price": 300,
+      "description": "mô tả sản phẩm 3"
+    },
+    {
+      "id": 4,
+      "name": "sản phẩm4",
+      "price": 400,
+      "description": "mô tả sản phẩm 4"
+    },
+    {
+      "name": "Sản phẩm 1",
+      "price": "100",
+      "description": "mô tả sản phẩm 1",
+      "id": 5
+    },
+    {
+      "name": "xxxxx",
+      "price": "123",
+      "description": "xxx",
+      "id": 6
+    }
+  ]
+}
